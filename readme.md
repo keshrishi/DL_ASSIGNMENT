@@ -116,16 +116,3 @@ Author: Rishikesh Kumar
 Roll No: 22052747
 Institution: KIIT University
 Submission: Vision Transformer Assignment
-
-Copy code
-
-
-
-
-
-
-
-
-
-
-
